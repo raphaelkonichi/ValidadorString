@@ -17,6 +17,7 @@ public class Main {
         bracketMap.put('[',']');
         bracketMap.put('{','}');
         bracketMap.put('(',')');
+        bracketMap.put('<','>');
 
         try {
             String finalValues = "";
